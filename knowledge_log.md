@@ -1,12 +1,11 @@
 # Knowledge Log
 
-1. [Difference b/w Git(a version control manager) and Github(a web hoisting platform)]
+1. [Understanding Git vs. GitHub]
 
-2. [The basic git commands.]
+2. [Repository creation and management]
 
-3. [How to create a GitHub Repository and add files to it using CMD]
+3. [Basic Git commands]
 
-4. [Setting up a dev server].
+4. [Branching and collaboration]
 
-5. [Connecting your local repo to Github]
-
+5. [Setting up a development environment]
